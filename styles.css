@@ -24,7 +24,7 @@ section {
 }
 
 .orange {
-  color: greenyellow;
+  color: rgb(173, 255, 47);
 }
 
 .fa-brands,
@@ -115,7 +115,7 @@ input:hover, textarea:hover {
 }
 
 input:focus, textarea:focus {
-  border-color: greenyellow;
+  border-color: rgb(173, 255, 47);
 }
 
 .dark-theme input:focus {
@@ -320,7 +320,7 @@ nav,
 .resume__button {
   width: 30%;
   height: 70px;
-  background-color: greenyellow;
+  background-color: rgb(173, 255, 47);
   border-radius: 8px;
   margin-top: 32px;
   box-shadow: 10px 10px rgba(0, 0, 0, 0.1) ;
@@ -330,8 +330,8 @@ nav,
 
 .resume__button:hover {
   background-color: transparent;
-  color: greenyellow;
-  border: 1px solid greenyellow;
+  color: rgb(173, 255, 47);
+  border: 1px solid rgb(173, 255, 47);
 }
 
 .resume__text {
@@ -403,7 +403,7 @@ nav,
 }
 
 .social__link {
-  background-color: greenyellow;
+  background-color: rgb(173, 255, 47);
   color: #fff;
   padding: 6px;
   width: 32px;
@@ -422,7 +422,7 @@ nav,
   font-size: 32px;
   border-radius: 50%;
   border: none;
-  background-color: greenyellow;
+  background-color: rgb(173, 255, 47);
   color: #000;
   position: absolute;
   bottom: 32px;
@@ -802,7 +802,7 @@ nav {
 
 .form__submit {
   background-color: transparent;
-  border: 2px solid greenyellow;
+  border: 2px solid rgb(173, 255, 47);
   color: white;
   font-weight: bold;
   width: 100%;
@@ -813,7 +813,7 @@ nav {
 }
 
 .form__submit:hover {
-  background-color: greenyellow;
+  background-color: rgb(173, 255, 47);
   color: #000;
 }
 
