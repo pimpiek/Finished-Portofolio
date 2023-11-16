@@ -203,7 +203,7 @@ nav,
     min-height: 80vh;
     background-color: #141414;
     z-index: 100;
-    overflow-x: hidden;
+    overflow: hidden;
 
   }
 
