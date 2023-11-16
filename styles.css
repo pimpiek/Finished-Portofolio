@@ -321,6 +321,7 @@ nav,
   width: 30%;
   height: 70px;
   background-color: rgb(173, 255, 47);
+  color: #000;
   border-radius: 8px;
   border: none;
   margin-top: 32px;
@@ -337,10 +338,7 @@ nav,
   border: 1px solid rgb(173, 255, 47);
 }
 
-.resume__text {
-  font-size: 24px;
-  font-weight: 700;
-}
+
 
 .dark-theme .resume__button {
   background-color: #02e;
