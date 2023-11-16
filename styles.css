@@ -1056,6 +1056,11 @@ footer {
 }
 
 @media (max-width: 480px) {
+
+  #landing__page {
+    overflow-x: hidden;
+  }
+
   .title {
     font-size: 72px;
   }
