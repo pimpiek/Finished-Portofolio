@@ -1086,12 +1086,11 @@ footer {
   }
 
   .experience__title {
-    font-size: 16px;
+    font-size: 24px;
   }
 
   .experience__info {
-    font-size: 16px;
-    text-wrap: nowrap;
+    font-size: 24px;
 
   }
 
@@ -1161,6 +1160,20 @@ footer {
   .scroll__icon {
     margin-bottom: 30px;
   }
+}
+
+@media (max-width: 380px) {
+  #skills {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .badges {
+    flex-wrap: wrap;
+  }
+
+  
 }
 
 
